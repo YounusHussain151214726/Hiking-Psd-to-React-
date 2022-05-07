@@ -57,7 +57,7 @@ const Home = () => {
         </p1>
         {/* card 1 */}
         <section className="card">
-          <img src="../Images/card-1.jpg" alt="" className="card1i" />
+          <img src="./Images/card-1.jpg" alt="" className="card1i" />
           <h className="card1h">Lorem ipsum</h>
           <p className="card1p">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
