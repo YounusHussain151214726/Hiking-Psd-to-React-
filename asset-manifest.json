@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hiking-Psd-to-React-/static/css/main.37813e00.css",
-    "main.js": "/Hiking-Psd-to-React-/static/js/main.cf2f714e.js",
+    "main.css": "/Hiking-Psd-to-React-/static/css/main.74ba0296.css",
+    "main.js": "/Hiking-Psd-to-React-/static/js/main.776794c6.js",
     "static/js/787.9706e2e2.chunk.js": "/Hiking-Psd-to-React-/static/js/787.9706e2e2.chunk.js",
     "static/media/3560835_04.jpg": "/Hiking-Psd-to-React-/static/media/3560835_04.1236ce88f412b46b4174.jpg",
     "static/media/headerback.jpg": "/Hiking-Psd-to-React-/static/media/headerback.d4365a5bf8984b78b45e.jpg",
@@ -10,12 +10,12 @@
     "static/media/bgi.jpg": "/Hiking-Psd-to-React-/static/media/bgi.9baf2af49d0389ec1857.jpg",
     "static/media/logo.svg": "/Hiking-Psd-to-React-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Hiking-Psd-to-React-/index.html",
-    "main.37813e00.css.map": "/Hiking-Psd-to-React-/static/css/main.37813e00.css.map",
-    "main.cf2f714e.js.map": "/Hiking-Psd-to-React-/static/js/main.cf2f714e.js.map",
+    "main.74ba0296.css.map": "/Hiking-Psd-to-React-/static/css/main.74ba0296.css.map",
+    "main.776794c6.js.map": "/Hiking-Psd-to-React-/static/js/main.776794c6.js.map",
     "787.9706e2e2.chunk.js.map": "/Hiking-Psd-to-React-/static/js/787.9706e2e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37813e00.css",
-    "static/js/main.cf2f714e.js"
+    "static/css/main.74ba0296.css",
+    "static/js/main.776794c6.js"
   ]
 }
